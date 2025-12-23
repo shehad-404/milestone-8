@@ -1,0 +1,162 @@
+[
+    {
+      "id": "101",
+      "name": "Rose",
+      "image": "https://images.unsplash.com/photo-1496062031456-07b8f162a322",
+      "description": "A classic flower symbolizing love and passion.",
+      "likeCount": 320,
+      "color": "red"
+    },
+    {
+      "id": "102",
+      "name": "Tulip",
+      "image": "https://images.unsplash.com/photo-1528825871115-3581a5387919",
+      "description": "A bright spring flower with elegant shape.",
+      "likeCount": 210,
+      "color": "yellow"
+    },
+    {
+      "id": "103",
+      "name": "Sunflower",
+      "image": "https://images.unsplash.com/photo-1508747703725-719777637510",
+      "description": "A tall flower that always faces the sun.",
+      "likeCount": 450,
+      "color": "yellow"
+    },
+    {
+      "id": "104",
+      "name": "Lily",
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+      "description": "An elegant flower associated with purity.",
+      "likeCount": 190,
+      "color": "white"
+    },
+    {
+      "id": "105",
+      "name": "Orchid",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "description": "An exotic flower with delicate beauty.",
+      "likeCount": 275,
+      "color": "purple"
+    },
+    {
+      "id": "106",
+      "name": "Daisy",
+      "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+      "description": "A simple and cheerful wildflower.",
+      "likeCount": 160,
+      "color": "white"
+    },
+    {
+      "id": "107",
+      "name": "Marigold",
+      "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea",
+      "description": "A vibrant flower often used in festivals.",
+      "likeCount": 180,
+      "color": "orange"
+    },
+    {
+      "id": "108",
+      "name": "Lotus",
+      "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92",
+      "description": "A sacred flower symbolizing purity.",
+      "likeCount": 390,
+      "color": "pink"
+    },
+    {
+      "id": "109",
+      "name": "Jasmine",
+      "image": "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0",
+      "description": "A fragrant flower widely used in perfumes.",
+      "likeCount": 230,
+      "color": "white"
+    },
+    {
+      "id": "110",
+      "name": "Lavender",
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+      "description": "A calming flower known for its scent.",
+      "likeCount": 260,
+      "color": "violet"
+    },
+    {
+      "id": "111",
+      "name": "Hibiscus",
+      "image": "https://images.unsplash.com/photo-1597305877032-0668b3c6413a",
+      "description": "A tropical flower with large petals.",
+      "likeCount": 215,
+      "color": "red"
+    },
+    {
+      "id": "112",
+      "name": "Peony",
+      "image": "https://images.unsplash.com/photo-1498842812179-c81beecf902c",
+      "description": "A lush flower symbolizing prosperity.",
+      "likeCount": 200,
+      "color": "pink"
+    },
+    {
+      "id": "113",
+      "name": "Chrysanthemum",
+      "image": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f",
+      "description": "A popular autumn blooming flower.",
+      "likeCount": 170,
+      "color": "yellow"
+    },
+    {
+      "id": "114",
+      "name": "Bluebell",
+      "image": "https://images.unsplash.com/photo-1525310072745-f49212b5ac6d",
+      "description": "A bell-shaped flower with blue color.",
+      "likeCount": 140,
+      "color": "blue"
+    },
+    {
+      "id": "115",
+      "name": "Poppy",
+      "image": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b",
+      "description": "A bright wildflower found in open fields.",
+      "likeCount": 165,
+      "color": "red"
+    },
+    {
+      "id": "116",
+      "name": "Gardenia",
+      "image": "https://images.unsplash.com/photo-1593691509543-c55fb32a1f9c",
+      "description": "A white flower with strong fragrance.",
+      "likeCount": 185,
+      "color": "white"
+    },
+    {
+      "id": "117",
+      "name": "Zinnia",
+      "image": "https://images.unsplash.com/photo-1595433707802-6b2626ef1c91",
+      "description": "A colorful summer-blooming flower.",
+      "likeCount": 155,
+      "color": "orange"
+    },
+    {
+      "id": "118",
+      "name": "Magnolia",
+      "image": "https://images.unsplash.com/photo-1490100667990-4fced8021649",
+      "description": "A large fragrant flower with thick petals.",
+      "likeCount": 205,
+      "color": "white"
+    },
+    {
+      "id": "119",
+      "name": "Carnation",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb",
+      "description": "A ruffled flower symbolizing admiration.",
+      "likeCount": 175,
+      "color": "pink"
+    },
+    {
+      "id": "120",
+      "name": "Anemone",
+      "image": "https://images.unsplash.com/photo-1589881133595-a3c085cb731d",
+      "description": "A delicate flower with a dark center.",
+      "likeCount": 145,
+      "color": "purple"
+    }
+  ]
