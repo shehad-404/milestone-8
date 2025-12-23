@@ -8,7 +8,7 @@ export default function MainLayout() {
         <Navbar></Navbar>
         <Outlet></Outlet>
 
-        <footer>
+        <footer className='bg-gray-500 text-white py-4'>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis nostrum labore, et eum quis necessitatibus similique libero quisquam fugit. Optio neque quos repellendus! Quam qui, harum ad molestias blanditiis magni quaerat quas ipsam quo.</p>
         </footer>
     </div>

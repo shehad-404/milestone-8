@@ -8,6 +8,7 @@ import About from './pages/About.jsx';
 import UserDetails from './pages/UserDetails.jsx';
 import MyFavouriteFlower from './pages/MyFavouriteFlower.jsx';
 import MainLayout from './MainLayout.jsx';
+import Home from './pages/Home.jsx';
 
 
 // this is a simple router setup with three routes: "/" or homepage, "/about", and "/store" >>> that render different components or elements based on the URL path.
@@ -18,10 +19,16 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <App />,
+        element: <Home />,
         loader: () => fetch('/data.json') // data loader function to fetch data from a JSON file
       }, 
     
+      {
+        path: "all-flowers",
+        element: <App />,
+        loader: () => fetch('/data.json') // data loader function to fetch data from a JSON file
+      }, 
+
       {
         path: "about",
         element:  <About></About>,
