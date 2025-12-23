@@ -8,7 +8,7 @@ function App() {
   console.log("Loader Data:", data);
 
   return (
-    <div>This is Home Page
+    <div className="mx-auto container">This is Home Page
 
       <div className="grid grid-cols-4 gap-4 py-4">
         {/* <div className="bg-red-500 text-white p-6 text-3xl">Taliwind working?</div> */}
