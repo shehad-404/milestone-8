@@ -6,6 +6,7 @@ import { useState } from "react";
 function App() {
   // Hook = useLoaderData() >>> to access the data loaded by the loader function defined in the route configuration
   const data = useLoaderData();
+  
   // useState to manage flowers data
   const [flowers, setFlowers] = useState(data);
 
